@@ -45,5 +45,3 @@ To run this project, you need a web browser that supports HTML5, CSS3, and JavaS
 6. Use the filter buttons to view all tasks, completed tasks, or pending tasks.
 7. Click the "Delete All" button to delete all tasks.
 8. The current date and time are displayed at the top of the app.
-
-## Project Structure
