@@ -13,6 +13,10 @@ A simple and professional to-do list app built with HTML, CSS, and JavaScript. T
 - Save tasks to local storage
 - Display current date and time
 
+## Live Demo
+
+Check out the deployed website: [To-Do List App](https://shree-todolist.netlify.app/)
+
 ## Getting Started
 
 ### Prerequisites
